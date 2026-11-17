@@ -1,7 +1,7 @@
 # CCFdrift
 
 Clock drift of seismic stations estimated from ambient-noise cross-correlation
-functions (CCFs) using the work from [Halbe et al. 2018](https://academic.oup.com/gji/article/214/3/2014/5038378). 
+functions (CCFs) using the work from [Hable et al. 2018](https://academic.oup.com/gji/article/214/3/2014/5038378). 
 Built on [ObsPy](https://docs.obspy.org/), ir order to make it agnostic
 to how the data is organized and juste use ObsPy client (SDS, ...).
 
